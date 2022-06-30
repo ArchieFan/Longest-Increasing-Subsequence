@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Increasing Subsequence", "Longest Increasing Subsequence\Longest Increasing Subsequence.csproj", "{7ADAE756-2990-4262-BE16-19803AC1AFD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Increasing Subsequence", "Longest Increasing Subsequence\Longest Increasing Subsequence.csproj", "{7ADAE756-2990-4262-BE16-19803AC1AFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Increasing Subsequence.Test", "Longest Increasing Subsequence.Test\Longest Increasing Subsequence.Test.csproj", "{92A8E6E3-FADB-4697-8431-208D0A1287EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7ADAE756-2990-4262-BE16-19803AC1AFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ADAE756-2990-4262-BE16-19803AC1AFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ADAE756-2990-4262-BE16-19803AC1AFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A8E6E3-FADB-4697-8431-208D0A1287EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A8E6E3-FADB-4697-8431-208D0A1287EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A8E6E3-FADB-4697-8431-208D0A1287EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A8E6E3-FADB-4697-8431-208D0A1287EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
